@@ -1,0 +1,19 @@
+{
+  "name": "rxjs-practice",
+  "version": "1.0.0",
+  "description": "Practicing rxjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenRoss92/rxjs-practice.git"
+  },
+  "author": "Ben Ross",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenRoss92/rxjs-practice/issues"
+  },
+  "homepage": "https://github.com/BenRoss92/rxjs-practice#readme"
+}
