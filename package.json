@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BenRoss92/rxjs-practice/issues"
   },
-  "homepage": "https://github.com/BenRoss92/rxjs-practice#readme"
+  "homepage": "https://github.com/BenRoss92/rxjs-practice#readme",
+  "dependencies": {
+    "rxjs": "^6.5.2"
+  }
 }
