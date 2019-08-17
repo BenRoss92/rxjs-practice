@@ -18,5 +18,8 @@
   "homepage": "https://github.com/BenRoss92/rxjs-practice#readme",
   "dependencies": {
     "rxjs": "^6.5.2"
+  },
+  "devDependencies": {
+    "jest": "^24.9.0"
   }
 }
